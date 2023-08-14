@@ -1,4 +1,4 @@
-// eslint-disable-next-line
+// eslint-disable-line no-unused-vars
 import React from "react";
 import Avatar from "@mui/joy/Avatar";
 import Button from "@mui/joy/Button";
